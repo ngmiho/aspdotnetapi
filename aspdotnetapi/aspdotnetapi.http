@@ -1,0 +1,6 @@
+@aspdotnetapi_HostAddress = http://localhost:5217
+
+GET {{aspdotnetapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
